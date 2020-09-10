@@ -1,5 +1,5 @@
 # machine-learning-platzi
-Este repositorio contiene los notebooks del curso **"Machine Learning Aplicado con Python"** que dicté en platzi.
+Este repositorio contiene los notebooks del curso **"Machine Learning Aplicado con Python"** que tomé en platzi.
 
 El objetivo de este curso es entregar los skills prácticos necesarios para implementar algoritmos de ML en un contexto profesional. 
 
